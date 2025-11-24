@@ -34,9 +34,9 @@ Mi objetivo es combinar análisis de datos, machine learning y desarrollo de sof
   
 
 ---
+## 🐍 Mi actividad en GitHub
 
-## 📊 Mis estadísticas en GitHub
-![Gonzalo's GitHub stats](https://github-readme-stats.vercel.app/api?username=TUUSUARIO&show_icons=true&theme=radical)  
+![Snake animation](https://raw.githubusercontent.com/Gonzalo8707/Gonzalo8707/output/github-contribution-grid-snake.svg)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TUUSUARIO&layout=compact&theme=radical)
 
