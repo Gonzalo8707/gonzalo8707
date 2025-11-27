@@ -73,11 +73,17 @@ Implementación de modelos de deep learning para predicción de series temporale
 
 </div>
 
----
+## 📊 Actividad y Contribuciones
 
-## 🐍 Mi actividad en GitHub
+<div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/Gonzalo8707/Gonzalo8707/output/github-contribution-grid-snake.svg)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Gonzalo8707&theme=react-dark&hide_border=true&area=true)
+
+</div>
+
+### 💡 Contribuciones Recientes
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 ---
 
