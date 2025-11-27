@@ -64,10 +64,6 @@ Implementación de modelos de deep learning para predicción de series temporale
 ## 📈 Estadísticas de GitHub
 
 <div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gonzalo8707&show_icons=true&theme=radical&hide_border=true&count_private=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Gonzalo8707&theme=radical&hide_border=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gonzalo8707&layout=compact&theme=radical&hide_border=true&langs_count=8)
 
